@@ -16,3 +16,15 @@
 1. Write your post in the web interface.
 2. Select the platform (Twitter, LinkedIn, etc.).
 3. PostMate handles the rest—automatically sharing your content at the right time.
+
+---
+
+## Setup Instructions 🛠️
+
+Follow these steps to clone and set up the project on your local machine:
+
+### 1. Clone the Repository
+Open your terminal and run the following command:
+```bash
+git clone https://github.com/mehmedx7/Postmate.git
+cd Postmate
