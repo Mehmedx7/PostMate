@@ -19,6 +19,14 @@
 
 ---
 
+## UI Preview 📸
+
+Here is a preview of the **PostMate** user interface:
+
+![UI Screenshot](static/img/UI.png)
+
+---
+
 ## Setup Instructions 🛠️
 
 Follow these steps to clone and set up the project on your local machine:
